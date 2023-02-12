@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Joan', serif;
+
+
+
+
+    
+
+}
+.top-page{
+    height: 100px;
+    text-align: center;
+    margin-top: 40px;
+
+}
+a{
+   padding-left: 40px;
+   text-decoration: none;
+   color: aliceblue;
+
+}
+a:hover{
+    color: aqua;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.description{
+    position: relative;
+    display: inline-block;
+    margin-left: 14%;
+    margin-top: 5%;
+   
+    
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 0px;
+    
+    
+    
+}
+h2{
+    font-size: 1,5rem;
+    font-weight: bold;
+    margin-top: 2%;
+
+    
+    
+}
+.sticker{
+    background-color: aqua;
+    display: inline;
+    padding: 8px;
+    font-size: 1,5rem;
+    border-radius: 45px 45px 45px 0px;
+    -webkit-border-radius: 45px 45px 45px 0px;
+    -moz-border-radius: 45px 45px 45px 0px;
+    -ms-border-radius: 45px 45px 45px 0px;
+    -o-border-radius: 45px 45px 45px 0px;
+}
+.contact{
+    margin-top: 10%;
+    text-align: left;
+    font-family: 'Space Mono', monospace;
+    font-size: 14px;
+    
+
+}
+
+.img1{
+    margin-top: 5%;
+    position: absolute;
+    right: 14%;
+    width: 25%;
+    border: 2px solid aqua;
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    -ms-border-radius: 200px;
+    -o-border-radius: 200px;
+}
+
+
+.footer{
+    margin-bottom: 20px;
+    font-size: smaller;
+    font-family: 'Space Mono', monospace;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
